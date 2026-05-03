@@ -1,0 +1,17 @@
+#TODO # add version number later after testing and verifying dependencies
+
+gradio
+openai-agents
+litellm
+exa-py
+aiohttp
+boto3
+redis
+redisvl
+pypdf
+pydantic
+tenacity
+python-dotenv
+langchain
+flashrank
+numpy
